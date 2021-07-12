@@ -8,7 +8,7 @@
 
 ##
 
-<p>Exercícios obtidos por meio do site da IFRN <a href="https://docente.ifrn.edu.br/pedrobaesse/disciplinas/programacao-web/material-de-aula/aula-06-exercicios-para-pensar-em-php/view">IFRN (Instituto Federal de Educação, Ciência e Tecnologia - RIO GRANDE DO NORTE)</a>.</p>
+<p>Exercícios obtidos por meio do site da <a href="https://docente.ifrn.edu.br/pedrobaesse/disciplinas/programacao-web/material-de-aula/aula-06-exercicios-para-pensar-em-php/view">IFRN (Instituto Federal de Educação, Ciência e Tecnologia - RIO GRANDE DO NORTE)</a>.</p>
 
 <p>Apesar de simples, acredito que sejam de grande valia para quem está começando!</p>
 
