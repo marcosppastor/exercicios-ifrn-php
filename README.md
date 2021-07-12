@@ -12,3 +12,5 @@
 
 <p>Apesar de simples, acredito que sejam de grande valia para quem está começando!</p>
 
+## Licença
+Público e editável (<a href="https://opensource.org/licenses/MIT">MIT license</a>)
